@@ -1,0 +1,4 @@
+#Fri May 24 17:53:48 CST 2019
+base.0=/Users/wangyan/Desktop/18-Unity/Demo/WYBrickz/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
